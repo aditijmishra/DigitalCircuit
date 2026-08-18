@@ -138,7 +138,7 @@ are universal gates.
 
 That means you can construct other logic gates using only NAND gates or only NOR gates.
 
-This is a common exam question.
+
 
 
 
