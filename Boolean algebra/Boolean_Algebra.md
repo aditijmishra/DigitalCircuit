@@ -1,4 +1,4 @@
-# Boolean Algebra — Digital Circuits & Computer Engineering
+vi# Boolean Algebra — Digital Circuits & Computer Engineering
 
 ## Course context
 
