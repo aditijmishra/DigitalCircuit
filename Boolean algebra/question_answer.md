@@ -146,3 +146,26 @@ AB+A'C
 
 CONSENSUS THEOREM
 
+# prove 
+
+## 1 A+AB=A 
+
+A+AB=A(1+B)
+DISTRIBUTIVE LAW
+
+A*1
+= A
+
+
+## 2 A+A'B=A+B 
+
+A+A'B DISTRIBUTION LAW
+
+(A+A')(A+B)
+
+1(A+B)
+
+= A+B
+
+## 3 Y=AB+A'C+BC
+
