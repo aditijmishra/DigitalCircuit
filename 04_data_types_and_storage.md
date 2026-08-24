@@ -1,6 +1,6 @@
 # How Different Data Types Are Stored
 
-## 1. How computers store data
+## 1. How computers store dataaa
 
 Computers ultimately store information using **binary**.
 
